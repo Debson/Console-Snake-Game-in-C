@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1506641175 source:d:\pure c\snake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<time.h>
+	<dos.h>
+	<dir.h>
+	<conio.h>
+
+1507147120 source:d:\pure c\snake\src\gamedata\snake.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"snake.h"
+	"../menu/menu.h"
+	"../interface/console.h"
+
+1507146862 d:\pure c\snake\src\gamedata\snake.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1507147072 source:d:\pure c\snake\src\main.c
+	<stdlib.h>
+	<stdio.h>
+	"gamedata/snake.h"
+	"interface/console.h"
+
+1507147015 source:d:\pure c\snake\src\menu\menu.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"../interface/console.h"
+	"../gamedata/snake.h"
+	"menu.h"
+
+1507144252 d:\pure c\snake\src\menu\menu.h
+	<stdio.h>
+	<stdlib.h>
+
+1507146947 source:d:\pure c\snake\src\interface\console.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<time.h>
+	<dos.h>
+	<dir.h>
+	<conio.h>
+	"console.h"
+
+1507147230 d:\pure c\snake\src\interface\console.h
+	<stdio.h>
+
